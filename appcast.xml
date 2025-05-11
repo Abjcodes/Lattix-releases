@@ -3,12 +3,12 @@
     <channel>
         <title>Lattix</title>
         <item>
-            <title>1.0</title>
-            <pubDate>Sun, 11 May 2025 14:33:43 +0530</pubDate>
-            <sparkle:version>1.0</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <title>1.1.0</title>
+            <pubDate>Sun, 11 May 2025 21:31:13 +0530</pubDate>
+            <sparkle:version>1.1.0</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Abjcodes/Lattix-releases/releases/download/prod/Lattix.zip" length="1940594" type="application/octet-stream" sparkle:edSignature="GP08k6dlh7FBgxBwPwYCxsM6cDWp9faKfo0KHRf9Kh7EA3StpbMafl2W+Gi1ZroAiLQzcDMXI0lgQ1Haq7wIBw=="/>
+            <enclosure url="https://github.com/Abjcodes/Lattix-releases/releases/download/prod/Lattix.zip" length="1946544" type="application/octet-stream" sparkle:edSignature="pFYTScgnsbOHADh5uftoyL93alaMLMhSXYx4EzLTyNOvraBPsOLdWum6D2iADB3xHmqKRcBMvP6/1PC+HBqNBA=="/>
         </item>
     </channel>
 </rss>
