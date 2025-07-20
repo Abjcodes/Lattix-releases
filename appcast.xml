@@ -3,16 +3,16 @@
     <channel>
         <title>Lattix</title>
         <item>
-            <title>1.1.4</title>
-            <pubDate>Sun, 29 Jun 2025 13:03:18 +0530</pubDate>
-            <sparkle:version>1.1.4</sparkle:version>
-            <sparkle:shortVersionString>1.1.4</sparkle:shortVersionString>
+            <title>1.2.0</title>
+            <pubDate>Sun, 20 Jul 2025 14:52:30 +0530</pubDate>
+            <sparkle:version>1.2.0</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Abjcodes/Lattix-releases/releases/download/prod/Lattix.zip" length="2046774" type="application/octet-stream" sparkle:edSignature="9lPdoRNrG63ErDewxM8lk25HlnmDXucn+SmCiPK4QNEhknvm1h/H201lyU9NlYKLxbovKp9ff5jiQ0zD2XfUCg=="/>
+            <enclosure url="https://github.com/Abjcodes/Lattix-releases/releases/download/prod/Lattix.zip" length="2050611" type="application/octet-stream" sparkle:edSignature="WmvECFUbXBZKKIVBkDbPpkJaJf+XITMGHcXlv98lO9XGiLt2LWj8JvciC+wLlxlHtY0rMpTQxSlxmmldrRGjDg=="/>
             <description><![CDATA[
                 <ul>
-                <li>Added Custom Layout Support for all displays/monitors</li>
-                <li>Added Launch at Login in settings</li>
+                <li>Now save layouts instantly throught the menubar app (beta feature)</li>
+                <li>Added browser support for Arc, Dia and Vivaldi</li>
                 </ul>
             ]]>
             </description>
