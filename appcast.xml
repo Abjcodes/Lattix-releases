@@ -3,17 +3,28 @@
     <channel>
         <title>Lattix</title>
         <item>
-            <title>1.2.0</title>
-            <pubDate>Sun, 20 Jul 2025 14:52:30 +0530</pubDate>
-            <sparkle:version>1.2.0</sparkle:version>
-            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <title>1.2.1</title>
+            <pubDate>Fri, 05 Sep 2025 21:33:49 +0530</pubDate>
+            <sparkle:version>1.2.1</sparkle:version>
+            <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Abjcodes/Lattix-releases/releases/download/prod/Lattix.zip" length="2050611" type="application/octet-stream" sparkle:edSignature="WmvECFUbXBZKKIVBkDbPpkJaJf+XITMGHcXlv98lO9XGiLt2LWj8JvciC+wLlxlHtY0rMpTQxSlxmmldrRGjDg=="/>
+            <enclosure url="https://github.com/Abjcodes/Lattix-releases/releases/download/prod/Lattix.zip" length="2099950" type="application/octet-stream" sparkle:edSignature="B684E0Or40VsxH93eSj2HqxY+3TGnEkbbRSAFv0USzs4xwwPqLA5Lx5rjuA5nrsprs9KiZbeE+iyjcSoPE9mBQ=="/>
             <description><![CDATA[
                 <ul>
-                <li>Now save layouts instantly throught the menubar app (beta feature)</li>
-                <li>Added browser support for Arc, Dia and Vivaldi</li>
+                  <li>Option to hide the Dock icon</li>
+                  <li>New settings for workspace switching and stopping behavior</li>
+                  <li>Added Fill and Minimize options to layout picker</li>
+                  <li>Support for drag-and-drop and folders</li>
+                  <li>Improvements to custom layouts</li>
+                  <li>Finder windows now remain open</li>
+                  <li>Revised window opening architecture</li>
+                  <li>“Check for Updates” and “About” added to the menu bar</li>
+                  <li>Updated purchase link to lattix.app/#pricing</li>
+                  <li>“Save Current Layout” is now stable and bug free</li>
+                  <li>Notifications appear when saving a layout</li>
+                  <li>More accurate custom window positioning</li>
                 </ul>
+
             ]]>
             </description>
         </item>
