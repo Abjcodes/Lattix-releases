@@ -8,7 +8,7 @@
             <sparkle:version>1.2.2</sparkle:version>
             <sparkle:shortVersionString>1.2.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://abjcodes.github.io/Lattix-releases/Lattix.zip" length="2068271" type="application/octet-stream" sparkle:edSignature="MsHT0TCR1nFx/yUTjwaBRq69OPRoLjg/hbgQwrglf/d+QKx1AMOCPipZS88nrYwoqhoe3/qFvEl0LRQCEiISCw=="/>
+            <enclosure url="https://github.com/Abjcodes/Lattix-releases/releases/download/prod/Lattix.zip" length="2068271" type="application/octet-stream" sparkle:edSignature="MsHT0TCR1nFx/yUTjwaBRq69OPRoLjg/hbgQwrglf/d+QKx1AMOCPipZS88nrYwoqhoe3/qFvEl0LRQCEiISCw=="/>
             <description><![CDATA[
                 <ul>
                 <li>UI redesign for MacOS 13 Tahoe</li>
