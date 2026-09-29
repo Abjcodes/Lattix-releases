@@ -3,20 +3,30 @@
     <channel>
         <title>Lattix</title>
         <item>
-            <title>2.0.0</title>
-            <pubDate>Sun, 26 Apr 2026 14:11:54 +0530</pubDate>
-            <sparkle:version>2.0.0</sparkle:version>
-            <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
+            <title>2.1.0</title>
+            <pubDate>Wed, 30 Sep 2026 00:08:47 +0530</pubDate>
+            <sparkle:version>2.1.0</sparkle:version>
+            <sparkle:shortVersionString>2.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Abjcodes/Lattix-releases/releases/download/prod/Lattix.dmg" length="4252713" type="application/octet-stream" sparkle:edSignature="Qoe5XGcRZeO2EzjlUe3DeNXi1tHwky6tqC5SFZNRh7LOGsBQEY/6jk1t8pvtV4xi4GiMGjESY3E4yIkiZOo2Cw=="/>
+            <enclosure url="https://github.com/Abjcodes/Lattix-releases/releases/download/prod/Lattix.dmg" length="9573906" type="application/octet-stream" sparkle:edSignature="uYPwbkmgviC5HlKcsQkOQqjVribEte5KaJea7Q8U+OL70lgGVmzJS/LgXiVv68quVQXMFtFc/ee0K4hV17DwAg=="/>
             <description><![CDATA[
-                <ul>
-                <li>Added spaces/virtual desktop support : Lattix can now open workspaces across multiple spaces/virtual desktops.</li>
-                <li>Space hop : Switch spaces, without any animations, by clicking on option key and arrows/mouse pointer. Configure in lattix settings.</li>
-                <li>Performance improvements</li>
-                </ul>
-            ]]>
-            </description>
+                    <h2>The biggest Lattix update yet</h2>
+                    <ul>
+                        <li>macOS 27 support</li>
+                        <li>You can now restore your workspaces from the menubar or using a hotkey, without closing your windows.</li>
+                        <li>Lattix can now create and delete Spaces automatically.</li>
+                        <li>Multiple window support, we recommend to prevent them from quitting so that lattix can position them accurately</li>
+                        <li>Capture and update workspace layouts from the menubar.</li>
+                        <li>Simpler hotkey commands. You can now use two or more keys to create a hotkey.</li>
+                        <li>Better HUD.</li>
+                        <li>Memory consumption optimizations and fixes.</li>
+                        <li>Workspace stop behaviours now apply to any Space.</li>
+                        <li>Unlimited Space captures.</li>
+                        <li>Share logs for easier error debugging.</li>
+                        <li>Newly designed onboarding.</li>
+                        <li>Added Automation permission for Space management.</li>
+                    </ul>
+                ]]></description>
         </item>
     </channel>
 </rss>
